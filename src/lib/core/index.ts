@@ -13,3 +13,7 @@ export enum AspectRatioMode {
 export * from './Size.js';
 
 export * from './Point.js';
+
+export * from './Rect.js';
+
+export * from './Margins.js';

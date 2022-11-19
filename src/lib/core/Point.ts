@@ -17,4 +17,12 @@ export class Point {
   public setY(newY: number) {
     this._y = newY;
   }
+
+  get x(): number {
+    return this._x;
+  }
+
+  get y(): number {
+    return this._y;
+  }
 }
