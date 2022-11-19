@@ -10,4 +10,6 @@ export enum AspectRatioMode {
   KeepAspectRatioByExpanding,
 }
 
-export { Size } from './Size.js';
+export * from './Size.js';
+
+export * from './Point.js';
