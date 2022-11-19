@@ -1,0 +1,5 @@
+node_modules
+build
+debug.log
+docs
+.DS_Store
