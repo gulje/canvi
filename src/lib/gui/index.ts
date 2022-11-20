@@ -1,3 +1,3 @@
-export * from './Surface.js';
-
-export * from './SurfaceFormat.js';
+export * from './PaintDevice.js';
+export * from './PaintEngine.js';
+export * from './Painter.js';
